@@ -1,3 +1,3 @@
 # BOUTIQUE ADO
-## Code Institute Mini-project
+## Code Institute Mini Project
 A Django exercise
